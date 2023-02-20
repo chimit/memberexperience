@@ -1,0 +1,6 @@
+{
+    "main": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_forums_front_topics"
+    }
+}
