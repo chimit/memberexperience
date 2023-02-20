@@ -1,6 +1,6 @@
 # Member experience plugin for IPS
 
-The plugin displayes member's experience in years, months and days in the most user friendly way under the user's avatar.
+The plugin displays member's experience in years, months and days in the most user friendly way under the user's avatar.
 
 ## Installation
 
